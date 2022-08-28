@@ -2,7 +2,7 @@
 # 公众号配置
 # 公众号appId
 "app_id": "wxc6dd3e8936f42faf",
-# 公众号appSecret
+# 公众号appsecret
 "app_secret": "160ddae77fab27263062f283bc063fd1",
 # 模板消息id
 "template_id": "jX2EbHuNQ_jwhLD0hMm139HSB9aTO1RtGIzWTrbJRzE",
